@@ -30,7 +30,6 @@ Email Me 👉 ✉️ **nayemmia032@gmail.com** For Collaboration/Project or Anyt
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NayemWorks&limit=5&theme=dark&combine_all_yearly_contributions=true)
